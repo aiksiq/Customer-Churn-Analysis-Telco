@@ -8,7 +8,7 @@ Brief 2-3 sentence summary of the problem and what this analysis found.
 
 | Metric | Value |
 |---|---|
-| Overall churn rate | XX% |
+| Overall churn rate | 26.5% |
 | Customers analyzed | 7,043 |
 | Estimated monthly revenue at risk | $X,XXX |
 | Highest-risk segment | (e.g., Month-to-month + Fiber optic) |
